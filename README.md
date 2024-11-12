@@ -1,6 +1,3 @@
-
-### مثال یک فایل README
-
 ```markdown
 # Keyword Extraction Methods
 
